@@ -2,6 +2,9 @@
 
 # dependencies
 /module-2/frameworks/node_modules
+
+/module-2/tailwind-cli/node_modules
+
 /.pnp
 .pnp.js
 
